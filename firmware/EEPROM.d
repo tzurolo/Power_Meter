@@ -1,0 +1,3 @@
+EEPROM.o: EEPROM.c EEPROM.h
+
+EEPROM.h:
