@@ -4,6 +4,10 @@
 *.obj
 *.elf
 
+# Listings
+*.lst
+*.lis
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -31,3 +35,11 @@
 # Debug files
 *.dSYM/
 *.su
+*.d
+
+# visual studio
+*.suo
+*.vcxproj*
+*.sdf
+*.opensdf
+ipch/
